@@ -1,0 +1,70 @@
+{
+  "brand": "VoiceMatch",
+  "tagline": "Real-world Voice AI Benchmark for Australian Accents",
+  "hero_headline": "Why Mainstream AI Fails on Australian Accents",
+  "hero_sub": "We tested 7 leading voice AI tools on Australian accents. See real accuracy numbers—skip the vendor hype.",
+  "pains": [
+    "Vendors claim 99% accuracy, but crash on non-native accents—practically unusable",
+    "Tried Google, Whisper, ChatGPT—none handle Australian accents well",
+    "Mixed English-Chinese speech confuses AI, transcription quality tanks, costs hours in manual fixes"
+  ],
+  "features": [
+    {
+      "title": "Accent Benchmark Library",
+      "desc": "Real word-error & call-miss rates for 7+ tools across Australian, Chinese, and Indian accents"
+    },
+    {
+      "title": "Scenario-Specific Scoring",
+      "desc": "Front desk, medical transcription, real estate calls—find the best tool for your exact use case"
+    },
+    {
+      "title": "ROI Calculator",
+      "desc": "Input call volume and staff count—see exactly how much you'll save with AI"
+    },
+    {
+      "title": "Deployment Support",
+      "desc": "We handle API setup and tuning—see real results in 30 days"
+    }
+  ],
+  "how": [
+    {
+      "step": "Pick Your Scenario",
+      "desc": "Front desk, medical transcription, client calls—identify your core use case"
+    },
+    {
+      "step": "Check the Comparison",
+      "desc": "See word-error rates, cost, and ease-of-use ranked for your accent and scenario"
+    },
+    {
+      "step": "Get Deployed",
+      "desc": "Confirm your choice—we integrate and tune. Verify results in 2 weeks"
+    }
+  ],
+  "proof": "Recruiting beta users now. Your real-world feedback shapes our roadmap.",
+  "cta": "Apply for Beta",
+  "cta_sub": "Enter your email, get your first benchmark report in 3 days",
+  "faq": [
+    {
+      "q": "Is your data more trustworthy than vendor claims?",
+      "a": "We test on real Australian and Chinese accents, not vendor lab conditions. 100% reproducible results."
+    },
+    {
+      "q": "How long to deploy?",
+      "a": "Tool selection, API setup, config—usually 7-14 days. Our engineers guide you the whole way."
+    },
+    {
+      "q": "Why not just ask the vendor directly?",
+      "a": "Vendors only publish their best numbers. We are independent—we test YOUR accent, your reality."
+    }
+  ],
+  "seo_pages": [
+    "Australian Accent Voice AI Accuracy Testing",
+    "Chinese Accent AI Phone Receptionist Selection",
+    "Mixed English-Chinese Speech Transcription Tools",
+    "Medical Clinic AI Phone Answering Cost Analysis",
+    "Service Industry AI Voice Assistant Cost Breakdown",
+    "ChatGPT vs Whisper vs Google: Australian Accent Benchmark"
+  ],
+  "disclaimer": "Testing methodology and results are based on real-world audio samples. Accuracy may vary by specific accent variation and audio context.",
+  "lang": "en"
+}
